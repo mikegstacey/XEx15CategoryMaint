@@ -17,7 +17,7 @@
         <img src="Images/banner.jpg" alt="Halloween Store" />
     </header>
     <section>
-    <h1>Category Maintenance nmn</h1>
+    <h1>Category Maintenance</h1>
     <form id="form1" runat="server">
         <asp:GridView ID="GridView1" runat="server" 
             AutoGenerateColumns="False" DataKeyNames="CategoryID" 
